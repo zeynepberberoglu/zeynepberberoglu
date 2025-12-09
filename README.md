@@ -1,21 +1,20 @@
 ### Hi, I'm Zeynep 👋
 
-I'm an Electrical & Electronics Engineering student passionate about **software development, robotics, and game technology**.  
-I have experience with **Python**, **WPILib (FRC robotics)**, and I'm currently improving my skills in **Unity and C#**.
+I'm an Electrical & Electronics Engineering student interested in **software development, game technology, and Python-based projects**.  
+I currently focus on **Python**, **Unity & C#**, and building small projects to improve my engineering and programming skills.
 
 ### 🔧 What I work on
 - Python projects & algorithm practice (LeetCode)
-- FRC robotics software (motor control, sensors, drivetrain logic)
-- Unity & C# fundamentals for game development
+- Unity & C# fundamentals (game development basics)
+- Personal learning projects (CLI tools, small simulations, etc.)
 
-### 🤖 Robotics Experience
-I worked as a software developer in **Qubit Robotics** for multiple seasons.  
-My work included robot control logic, drivetrain programming, and sensor integration.
-
-You can check the 2021 robot project below 👇
+### 🤖 Past Experience (FRC Robotics)
+Previously, I worked as a software developer in **Qubit Robotics** for multiple seasons during high school.  
+I contributed to robot control logic, drivetrain behavior and sensor-based features.  
+Even though I'm not active in robotics anymore, the experience strongly shaped my engineering foundation.
 
 ### 📌 Pinned Projects
-- **FRC 2021 Robot Code**
+- **FRC 2021 Robot Code**  
 - **Python Practise / LeetCode Notes**
 
 ### 📫 Contact
