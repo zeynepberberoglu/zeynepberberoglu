@@ -14,7 +14,7 @@ I contributed to robot control logic, drivetrain behavior and sensor-based featu
 Even though I'm not active in robotics anymore, the experience strongly shaped my engineering foundation.
 
 ### 📌 Pinned Projects
-- **FRC 2021 Robot Code**  
+- **FRC Code Archieve**
 - **Python Practise / LeetCode Notes**
 
 ### 📫 Contact
