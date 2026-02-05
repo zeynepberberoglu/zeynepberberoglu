@@ -16,6 +16,8 @@ Even though I'm not active in robotics anymore, the experience strongly shaped m
 ### 📌 Pinned Projects
 - **FRC Code Archieve**
 - **Python Practise / LeetCode Notes**
+- **Cyber-Secured-Seismograph**
+- **Rig-Engineer**
 
 ### 📫 Contact
 Feel free to reach out:
